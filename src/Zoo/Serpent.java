@@ -1,3 +1,5 @@
+package Zoo;
+
 public class Serpent {
     public void afficherSerpent() {
 

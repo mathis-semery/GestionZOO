@@ -1,3 +1,5 @@
+package Zoo;
+
 public class Gorille {
     public void afficherGorille(){
         System.out.println("▒▒▒▒▒▄██████████▄▒▒▒▒▒\n" +
